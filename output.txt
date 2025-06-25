@@ -1,0 +1,14 @@
+🎮 Welcome to Hangman!
+Guess the word one letter at a time.
+You have 6 incorrect guesses allowed.
+
+Word:  _ _ _ _ _
+Enter a letter: a
+✅ Good guess!
+
+Word:  a _ _ _ _
+Enter a letter: b
+❌ Wrong guess! Attempts left: 5
+
+...
+✅ Congratulations! You guessed the word: apple
