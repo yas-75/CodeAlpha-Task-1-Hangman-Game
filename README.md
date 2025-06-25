@@ -9,8 +9,9 @@ This is my submission for Task 1 of the CodeAlpha Internship. I have created a s
 3. Open the terminal or command prompt in the folder where the file is saved.
 4. Run this command:
 
+
+Example Gameplay :-
 ~~~
-Example Gameplay 
 🎮 Welcome to Hangman!
 Guess the word one letter at a time.
 You have 6 incorrect guesses allowed.
@@ -28,10 +29,11 @@ Enter a letter: b
 ~~~
 
 Files included :-
+~~~
 hangman.py – main Python code file
 
 README.md – basic details about the project
-
+~~~
 
 Made by
 Saumya Jasmin
