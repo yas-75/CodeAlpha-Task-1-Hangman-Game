@@ -10,7 +10,7 @@ This is my submission for Task 1 of the CodeAlpha Internship. I have created a s
 4. Run this command:
 
 
-Example Gameplay :-
+Example Input/Output:-
 ~~~
 🎮 Welcome to Hangman!
 Guess the word one letter at a time.
